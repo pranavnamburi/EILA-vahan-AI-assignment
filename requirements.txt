@@ -1,0 +1,35 @@
+# FastAPI backend
+fastapi
+uvicorn
+pydantic
+
+# Frontend
+streamlit
+
+# API clients
+google-generativeai
+google-api-python-client
+langchain
+langchain-google-genai
+langchain-community
+langchain-core
+
+# Research tools
+google-search-results
+arxiv
+youtube-transcript-api
+
+# Vector database
+faiss-cpu
+
+# Embeddings
+sentence-transformers
+
+# Utilities
+python-dotenv
+requests
+tenacity
+
+# PDF generation
+fpdf2
+markdown
