@@ -19,8 +19,8 @@ EILA is an AI-powered learning assistant that creates personalized educational r
 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd eila
+git clone https://github.com/pranavnamburi/EILA-vahan-AI-assignment
+cd EILA-vahan-AI-assignment
 ```
 
 2. Create and activate a virtual environment
@@ -51,8 +51,8 @@ GEMINI_API_KEY=your_gemini_api_key_here
 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd eila
+git clone https://github.com/pranavnamburi/EILA-vahan-AI-assignment
+cd EILA-vahan-AI-assignment
 ```
 
 2. Create a .env file with your API keys (same as above)
